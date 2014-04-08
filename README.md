@@ -57,4 +57,4 @@ $(document).ready(function() {
 
 ## Demo
 
-Example usage in file: demo.html
+Example usage in file: demo.html. [Live demo](http://darekwalega.github.io/abixTreeList/)
