@@ -1,0 +1,26 @@
+{
+    "name": "abixTreeList",
+    "title": "abixTreeList",
+    "description": "A very lightweight plugin to create treeview from HTML list",
+    "keywords": [
+        "abix",
+        "tree",
+        "list",
+        "treeview"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "darekwalega",
+        "url": "https://github.com/darekwalega"
+    },
+    "licenses": [
+    {
+        "type": "MIT",
+        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+    }
+    ],
+    "homepage": "http://darekwalega.github.io/abixTreeList/",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
