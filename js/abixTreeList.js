@@ -38,7 +38,7 @@
         self.$allBranches.not(self.$topLevelBranches).hide();
         self.$allBranches.each(function() {
             var $children = $(this).children('ul,ol');
-            if ($children.size() > 0) {
+            if ($children.length > 0) {
                 $(this).addClass('collapsed');
                 $('<span class="icon '+self.options.collapsedIconClass+'"></span>').prependTo($(this));
             }

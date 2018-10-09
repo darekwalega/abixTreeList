@@ -7,7 +7,7 @@ JQuery plugin to create treeview from HTML list
 
 Include the jQuery library:
 ```html
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.8.0.min.js"></script>
 ```
 
 Include the js and css files from js and css folders:
